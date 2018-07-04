@@ -59,10 +59,8 @@ server will run on [http://127.0.0.1:3000](http://127.0.0.1:3000)
 > Node: by default server uses port 3000, make sure that this port is free
 
 After server is running you will see:
-```javascript
-[![demo](https://github.com/DudkinON/webpack-angularjs/blob/master/demo.png?raw=true)](https://github.com/DudkinON/webpack-angularjs/blob/master/demo.png?raw=true)
 
-```
+[![demo](https://github.com/DudkinON/webpack-angularjs/blob/master/demo.png?raw=true)](https://github.com/DudkinON/webpack-angularjs/blob/master/demo.png?raw=true)
 
 ## HTML preprocessors
 
