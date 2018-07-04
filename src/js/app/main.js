@@ -15,5 +15,5 @@ app.config(['$routeProvider', '$locationProvider',
 // TODO: Main controller
 app.controller('MainController', function () {
   let $scope = this;
-  $scope.header = "Angular JS: Webpack configuration";
+  $scope.header = "Webpack configuration";
 });
