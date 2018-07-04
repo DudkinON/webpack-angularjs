@@ -3,14 +3,6 @@ body {
   background-color: #fff;
 }
 
-.start {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  flex-flow: column;
-}
-
 img {
   border: 5px;
   width: 300px;
@@ -19,8 +11,20 @@ img {
 h1 {
   font-size: 1.5em;
   font-family: sans-serif;
-  color: #298aff;
+  color: #000000;
   text-align: center;
+}
+
+.red {
+  color: #ff4e44;
+}
+
+.start {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-flow: column;
 }
 
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
