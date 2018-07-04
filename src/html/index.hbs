@@ -1,13 +1,17 @@
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <title>{{ htmlWebpackPlugin.options.title }}</title>
-  </head>
-  <body>
-    <div class="start">
-      <img src="images/r_icon.png" alt="">
-      <div id="react-app"></div>
-    </div>
-  </body>
+<!doctype html>
+<html lang="en" ng-app="app">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Webpack: Angular JS configuration</title>
+  <base href="/">
+</head>
+<body ng-cloak>
+<div class="start" ng-controller="MainController  as main">
+  <img src="../images/angularjs_icon.png" alt="">
+  <h1>Angular <span class="red">JS</span>: {{ main.header }}</h1>
+</div>
+</body>
 </html>
