@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+.start {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-flow: column;
+}
+
+img {
+  border: 5px;
+  width: 300px;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-family: sans-serif;
+  color: #298aff;
+  text-align: center;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
