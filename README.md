@@ -109,7 +109,7 @@ then change `main.css` to `main.styl`
 
 Open file `src/styles/main.[less|sass|styl]` and work with your favorite CSS preprocessor
 
-## React 
+## Angular.js entry point 
 
 Angular JS application files located in `src/js/app`. The `main.js` is the entry point for AngularJS app.
 
