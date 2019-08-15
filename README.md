@@ -1,4 +1,4 @@
-# Webpack config for React
+# Webpack config for AngularJS
 
 > This repo is already configured for AngularJS framework. Supports preprocessor CSS languages:
 SASS, LESS, and STYLUS. Contains developer dev server that hard reloads, all necessary packages, 
