@@ -6,7 +6,7 @@
   "main": "./src/js/main.js",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.5.0",
+    "ajv": "^6.12.3",
     "angular": "^1.7.2",
     "angular-route": "^1.7.2",
     "babel-cli": "*",
